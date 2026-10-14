@@ -1,0 +1,148 @@
+condition,seed,true_stage,predicted_stage,count
+"Clean images, correct labels (baseline)",42,Anaphase,Anaphase,0
+"Clean images, correct labels (baseline)",42,Anaphase,G1,0
+"Clean images, correct labels (baseline)",42,Anaphase,G2,1
+"Clean images, correct labels (baseline)",42,Anaphase,Metaphase,0
+"Clean images, correct labels (baseline)",42,Anaphase,Prophase,4
+"Clean images, correct labels (baseline)",42,Anaphase,S,0
+"Clean images, correct labels (baseline)",42,Anaphase,Telophase,0
+"Clean images, correct labels (baseline)",42,G1,Anaphase,0
+"Clean images, correct labels (baseline)",42,G1,G1,1110
+"Clean images, correct labels (baseline)",42,G1,G2,18
+"Clean images, correct labels (baseline)",42,G1,Metaphase,0
+"Clean images, correct labels (baseline)",42,G1,Prophase,2
+"Clean images, correct labels (baseline)",42,G1,S,303
+"Clean images, correct labels (baseline)",42,G1,Telophase,0
+"Clean images, correct labels (baseline)",42,G2,Anaphase,0
+"Clean images, correct labels (baseline)",42,G2,G1,23
+"Clean images, correct labels (baseline)",42,G2,G2,540
+"Clean images, correct labels (baseline)",42,G2,Metaphase,0
+"Clean images, correct labels (baseline)",42,G2,Prophase,125
+"Clean images, correct labels (baseline)",42,G2,S,172
+"Clean images, correct labels (baseline)",42,G2,Telophase,0
+"Clean images, correct labels (baseline)",42,Metaphase,Anaphase,0
+"Clean images, correct labels (baseline)",42,Metaphase,G1,0
+"Clean images, correct labels (baseline)",42,Metaphase,G2,4
+"Clean images, correct labels (baseline)",42,Metaphase,Metaphase,0
+"Clean images, correct labels (baseline)",42,Metaphase,Prophase,2
+"Clean images, correct labels (baseline)",42,Metaphase,S,1
+"Clean images, correct labels (baseline)",42,Metaphase,Telophase,0
+"Clean images, correct labels (baseline)",42,Prophase,Anaphase,0
+"Clean images, correct labels (baseline)",42,Prophase,G1,0
+"Clean images, correct labels (baseline)",42,Prophase,G2,15
+"Clean images, correct labels (baseline)",42,Prophase,Metaphase,0
+"Clean images, correct labels (baseline)",42,Prophase,Prophase,44
+"Clean images, correct labels (baseline)",42,Prophase,S,2
+"Clean images, correct labels (baseline)",42,Prophase,Telophase,0
+"Clean images, correct labels (baseline)",42,S,Anaphase,0
+"Clean images, correct labels (baseline)",42,S,G1,139
+"Clean images, correct labels (baseline)",42,S,G2,181
+"Clean images, correct labels (baseline)",42,S,Metaphase,0
+"Clean images, correct labels (baseline)",42,S,Prophase,4
+"Clean images, correct labels (baseline)",42,S,S,538
+"Clean images, correct labels (baseline)",42,S,Telophase,0
+"Clean images, correct labels (baseline)",42,Telophase,Anaphase,0
+"Clean images, correct labels (baseline)",42,Telophase,G1,0
+"Clean images, correct labels (baseline)",42,Telophase,G2,2
+"Clean images, correct labels (baseline)",42,Telophase,Metaphase,0
+"Clean images, correct labels (baseline)",42,Telophase,Prophase,0
+"Clean images, correct labels (baseline)",42,Telophase,S,0
+"Clean images, correct labels (baseline)",42,Telophase,Telophase,3
+"Clean images, noisy labels",25,Anaphase,Anaphase,0
+"Clean images, noisy labels",25,Anaphase,G1,5
+"Clean images, noisy labels",25,Anaphase,G2,0
+"Clean images, noisy labels",25,Anaphase,Metaphase,0
+"Clean images, noisy labels",25,Anaphase,Prophase,0
+"Clean images, noisy labels",25,Anaphase,S,0
+"Clean images, noisy labels",25,Anaphase,Telophase,0
+"Clean images, noisy labels",25,G1,Anaphase,0
+"Clean images, noisy labels",25,G1,G1,1433
+"Clean images, noisy labels",25,G1,G2,0
+"Clean images, noisy labels",25,G1,Metaphase,0
+"Clean images, noisy labels",25,G1,Prophase,0
+"Clean images, noisy labels",25,G1,S,0
+"Clean images, noisy labels",25,G1,Telophase,0
+"Clean images, noisy labels",25,G2,Anaphase,0
+"Clean images, noisy labels",25,G2,G1,859
+"Clean images, noisy labels",25,G2,G2,1
+"Clean images, noisy labels",25,G2,Metaphase,0
+"Clean images, noisy labels",25,G2,Prophase,0
+"Clean images, noisy labels",25,G2,S,0
+"Clean images, noisy labels",25,G2,Telophase,0
+"Clean images, noisy labels",25,Metaphase,Anaphase,0
+"Clean images, noisy labels",25,Metaphase,G1,7
+"Clean images, noisy labels",25,Metaphase,G2,0
+"Clean images, noisy labels",25,Metaphase,Metaphase,0
+"Clean images, noisy labels",25,Metaphase,Prophase,0
+"Clean images, noisy labels",25,Metaphase,S,0
+"Clean images, noisy labels",25,Metaphase,Telophase,0
+"Clean images, noisy labels",25,Prophase,Anaphase,0
+"Clean images, noisy labels",25,Prophase,G1,61
+"Clean images, noisy labels",25,Prophase,G2,0
+"Clean images, noisy labels",25,Prophase,Metaphase,0
+"Clean images, noisy labels",25,Prophase,Prophase,0
+"Clean images, noisy labels",25,Prophase,S,0
+"Clean images, noisy labels",25,Prophase,Telophase,0
+"Clean images, noisy labels",25,S,Anaphase,0
+"Clean images, noisy labels",25,S,G1,862
+"Clean images, noisy labels",25,S,G2,0
+"Clean images, noisy labels",25,S,Metaphase,0
+"Clean images, noisy labels",25,S,Prophase,0
+"Clean images, noisy labels",25,S,S,0
+"Clean images, noisy labels",25,S,Telophase,0
+"Clean images, noisy labels",25,Telophase,Anaphase,0
+"Clean images, noisy labels",25,Telophase,G1,5
+"Clean images, noisy labels",25,Telophase,G2,0
+"Clean images, noisy labels",25,Telophase,Metaphase,0
+"Clean images, noisy labels",25,Telophase,Prophase,0
+"Clean images, noisy labels",25,Telophase,S,0
+"Clean images, noisy labels",25,Telophase,Telophase,0
+"Clean images, noisy labels",2,Anaphase,Anaphase,5
+"Clean images, noisy labels",2,Anaphase,G1,0
+"Clean images, noisy labels",2,Anaphase,G2,0
+"Clean images, noisy labels",2,Anaphase,Metaphase,0
+"Clean images, noisy labels",2,Anaphase,Prophase,0
+"Clean images, noisy labels",2,Anaphase,S,0
+"Clean images, noisy labels",2,Anaphase,Telophase,0
+"Clean images, noisy labels",2,G1,Anaphase,1433
+"Clean images, noisy labels",2,G1,G1,0
+"Clean images, noisy labels",2,G1,G2,0
+"Clean images, noisy labels",2,G1,Metaphase,0
+"Clean images, noisy labels",2,G1,Prophase,0
+"Clean images, noisy labels",2,G1,S,0
+"Clean images, noisy labels",2,G1,Telophase,0
+"Clean images, noisy labels",2,G2,Anaphase,859
+"Clean images, noisy labels",2,G2,G1,0
+"Clean images, noisy labels",2,G2,G2,0
+"Clean images, noisy labels",2,G2,Metaphase,1
+"Clean images, noisy labels",2,G2,Prophase,0
+"Clean images, noisy labels",2,G2,S,0
+"Clean images, noisy labels",2,G2,Telophase,0
+"Clean images, noisy labels",2,Metaphase,Anaphase,7
+"Clean images, noisy labels",2,Metaphase,G1,0
+"Clean images, noisy labels",2,Metaphase,G2,0
+"Clean images, noisy labels",2,Metaphase,Metaphase,0
+"Clean images, noisy labels",2,Metaphase,Prophase,0
+"Clean images, noisy labels",2,Metaphase,S,0
+"Clean images, noisy labels",2,Metaphase,Telophase,0
+"Clean images, noisy labels",2,Prophase,Anaphase,61
+"Clean images, noisy labels",2,Prophase,G1,0
+"Clean images, noisy labels",2,Prophase,G2,0
+"Clean images, noisy labels",2,Prophase,Metaphase,0
+"Clean images, noisy labels",2,Prophase,Prophase,0
+"Clean images, noisy labels",2,Prophase,S,0
+"Clean images, noisy labels",2,Prophase,Telophase,0
+"Clean images, noisy labels",2,S,Anaphase,861
+"Clean images, noisy labels",2,S,G1,0
+"Clean images, noisy labels",2,S,G2,0
+"Clean images, noisy labels",2,S,Metaphase,0
+"Clean images, noisy labels",2,S,Prophase,1
+"Clean images, noisy labels",2,S,S,0
+"Clean images, noisy labels",2,S,Telophase,0
+"Clean images, noisy labels",2,Telophase,Anaphase,5
+"Clean images, noisy labels",2,Telophase,G1,0
+"Clean images, noisy labels",2,Telophase,G2,0
+"Clean images, noisy labels",2,Telophase,Metaphase,0
+"Clean images, noisy labels",2,Telophase,Prophase,0
+"Clean images, noisy labels",2,Telophase,S,0
+"Clean images, noisy labels",2,Telophase,Telophase,0

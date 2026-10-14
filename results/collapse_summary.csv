@@ -1,0 +1,5 @@
+Condition,Collapsed runs,Collapse rate,95% CI (Wilson),Collapsed to,"Accuracy, non-collapsed runs"
+"Clean images, correct labels (baseline)",0 / 30,0%,0% to 11%,none,69.77%
+"Degraded images, correct labels",6 / 30,20%,10% to 37%,"G2 (3), Telophase (1), Metaphase (1), G1 (1)",33.47%
+"Clean images, noisy labels",23 / 30,77%,59% to 88%,"Anaphase (7), G1 (7), Metaphase (4), Prophase (3), G2 (1), Telophase (1)",23.97%
+"Degraded images, noisy labels (combined)",7 / 30,23%,12% to 41%,"G1 (3), Prophase (2), Anaphase (1), Metaphase (1)",24.31%
